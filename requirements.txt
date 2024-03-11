@@ -1,0 +1,8 @@
+streamlit
+os
+matplotlip.pyplot
+emoji
+pandas
+re
+collections
+pil
